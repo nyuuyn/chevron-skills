@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "chevron-skills",
+  "version": "1.0.0",
+  "description": "AI skill for drawing accurate circular chevron/cycle diagrams as inline SVG (process wheels, PDCA-style cycles, lifecycle diagrams) - reference-driven geometry instead of guessed proportions.",
+  "author": {
+    "name": "Kálmán Képes"
+  },
+  "license": "MIT",
+  "keywords": [
+    "svg",
+    "diagram",
+    "chevron",
+    "cycle-diagram",
+    "process-wheel",
+    "data-visualization"
+  ]
+}

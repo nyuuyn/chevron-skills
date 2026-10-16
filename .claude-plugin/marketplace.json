@@ -1,0 +1,27 @@
+{
+  "name": "chevron-skills",
+  "description": "AI skill for drawing accurate circular chevron/cycle diagrams as inline SVG - reference-driven geometry instead of guessed proportions.",
+  "owner": {
+    "name": "Kálmán Képes"
+  },
+  "plugins": [
+    {
+      "name": "chevron-skills",
+      "source": {
+        "source": "github",
+        "repo": "nyuuyn/chevron-skills"
+      },
+      "description": "AI skill for drawing accurate circular chevron/cycle diagrams as inline SVG - reference-driven geometry instead of guessed proportions.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": [
+        "svg",
+        "diagram",
+        "chevron",
+        "cycle-diagram",
+        "process-wheel",
+        "data-visualization"
+      ]
+    }
+  ]
+}
