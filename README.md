@@ -25,20 +25,16 @@ skills/chevron-cycle-diagram/
 
 ## Install
 
-As a Claude Code plugin, from this repo:
+As a Claude Code plugin:
 
 ```
-/plugin marketplace add <path-or-url-to-this-repo>
+/plugin marketplace add nyuuyn/chevron-skills
 /plugin install chevron-skills
 ```
 
 Or, for a single project without installing a plugin, copy
 `skills/chevron-cycle-diagram/` into that project's `.claude/skills/`
 directory directly.
-
-> The `source.repo` field in `.claude-plugin/marketplace.json` is a
-> placeholder (`nyuuyn/chevron-skills`) — update it to wherever this repo
-> actually ends up living before publishing/sharing it.
 
 ## Validated
 
